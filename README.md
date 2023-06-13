@@ -15,10 +15,10 @@ O curso foi dividido em diversos módulos, cada um com seus respectivos exercíc
 
 - O paradigma procedural foi utilizado antes das linguagens orientadas a objetos, com problemas como a falta de um vínculo forte entre dados e funções, levando a duplicação de código.
 - Aprendemos sobre classes, objetos e atributos, incluindo a criação e visualização de valores de atributos e a atribuição de referências a variáveis.
-- Exploramos métodos, incluindo parâmetros, retorno, uso de "return", acesso a atributos com "this" e passagem de referências como parâmetros.
+- Exploramos métodos, incluindo parâmetros, retorno, uso de `return`, acesso a atributos com `this` e passagem de referências como parâmetros.
 - Composição de classes, isolamento de informações repetidas, detalhes e cuidados com a composição.
-- Privacidade de atributos, encapsulamento, getters e setters para leitura e modificação de atributos, incluindo referências.
-- Uso de construtores para inicializar atributos, atributos e métodos estáticos, e a ausência de referência "this" em métodos estáticos.
+- Privacidade de atributos, encapsulamento, `getters` e `setters` para leitura e modificação de atributos, incluindo referências.
+- Uso de construtores para inicializar atributos, atributos e métodos estáticos, e a ausência de referência `this` em métodos estáticos.
 
 ## Minha jornada
 
