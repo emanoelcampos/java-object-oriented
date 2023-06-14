@@ -75,7 +75,7 @@ public class Account {
         }
     }
 
-    public boolean transferFunds(module4.object.composition.Account destinationAccount, double amount) {
+    public boolean transferFunds(Account destinationAccount, double amount) {
         if(this.balance >= amount) {
             this.balance -= amount;
             //destinationAccount.balance += amount;
